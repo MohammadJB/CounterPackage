@@ -7,7 +7,7 @@
   "types": "./dist/esm/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gapon2401/my-react-typescript-package.git"
+    "url": "git+https://github.com/MohammadJB/CounterPackage.git"
   },
   "scripts": {
     "prepare": "npm run build",
@@ -38,6 +38,7 @@
     "@testing-library/react": "^14.0.0",
     "@types/jest": "^29.5.0",
     "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
     "@typescript-eslint/eslint-plugin": "^5.56.0",
     "@typescript-eslint/parser": "^5.56.0",
     "eslint": "^8.36.0",
